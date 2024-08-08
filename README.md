@@ -9,40 +9,40 @@
 
 
 
-![](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\ious.png)
+![ious](ious.png)
 
-![precision](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\precision.png)
+![precision](precision.png)
 
-![train_loss](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\train_loss.png)
-
-
-
-![](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\bird1.jpg)
-
-![bottle1](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\bottle1.jpg)
-
-![bycycle2](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\bycycle2.jpg)
-
-![car3](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\car3.jpg)
-
-![horse2](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\horse2.jpg)
-
-![pottedplant1](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\pottedplant1.jpg)
-
-![](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img\street2.jpg)
+![train_loss](train_loss.png)
 
 
 
-![](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\bird1.jpg)
+![bird1](img\bird1.jpg)
 
-![bottle1](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\bottle1.jpg)
+![bottle1](img\bottle1.jpg)
 
-![bycycle2](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\bycycle2.jpg)
+![bycycle2](img\bycycle2.jpg)
 
-![car3](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\car3.jpg)
+![car3](img\car3.jpg)
 
-![horse2](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\horse2.jpg)
+![horse2](img\horse2.jpg)
 
-![pottedplant1](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\pottedplant1.jpg)
+![pottedplant1](img\pottedplant1.jpg)
 
-![street2](D:\gitlearn\yolov5+transformer+cbma\YOLOv5-transformer-CBMA\img_output\street2.jpg)
+![street2](img\street2.jpg)
+
+
+
+![detect_bird1](img_output\bird1.jpg)
+
+![detect_bottle1](img_output\bottle1.jpg)
+
+![detect_bycycle2](img_output\bycycle2.jpg)
+
+![detect_car3](img_output\car3.jpg)
+
+![detect_horse2](img_output\horse2.jpg)
+
+![detect_pottedplant1](img_output\pottedplant1.jpg)
+
+![detect_street2](img_output\street2.jpg)
