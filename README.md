@@ -17,32 +17,32 @@
 
 
 
-![bird1](.\img\bird1.jpg)
+![bird1](./img/bird1.jpg)
 
-![bottle1](.\img\bottle1.jpg)
+![bottle1](./img/bottle1.jpg)
 
-![bycycle2](.\img\bycycle2.jpg)
+![bycycle2](./img/bycycle2.jpg)
 
-![car3](.\img\car3.jpg)
+![car3](./img/car3.jpg)
 
-![horse2](.\img\horse2.jpg)
+![horse2](./img/horse2.jpg)
 
-![pottedplant1](.\img\pottedplant1.jpg)
+![pottedplant1](./img/pottedplant1.jpg)
 
-![street2](.\img\street2.jpg)
+![street2](./img/street2.jpg)
 
 
 
-![detect_bird1](.\img_output\bird1.jpg)
+![detect_bird1](./img_output/bird1.jpg)
 
-![detect_bottle1](.\img_output\bottle1.jpg)
+![detect_bottle1](./img_output/bottle1.jpg)
 
-![detect_bycycle2](.\img_output\bycycle2.jpg)
+![detect_bycycle2](./img_output/bycycle2.jpg)
 
-![detect_car3](.\img_output\car3.jpg)
+![detect_car3](./img_output/car3.jpg)
 
-![detect_horse2](.\img_output\horse2.jpg)
+![detect_horse2](./img_output/horse2.jpg)
 
-![detect_pottedplant1](.\img_output\pottedplant1.jpg)
+![detect_pottedplant1](./img_output/pottedplant1.jpg)
 
-![detect_street2](.\img_output\street2.jpg)
+![detect_street2](./img_output/street2.jpg)
